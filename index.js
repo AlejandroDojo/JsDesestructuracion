@@ -14,7 +14,7 @@ const employee = {
 }
 const { name: otherName } = employee;
 //Predict the output
-//console.log(name); // Nada, undefined
+console.log(name); // Nada, undefined
 console.log(otherName); // Elon
 
 /* PROBLEMA 3 */
